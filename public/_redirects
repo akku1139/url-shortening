@@ -2,8 +2,8 @@
 
 # ArchLinux
 ## AUR
-/aur/:pkg/d https://aur.archlinux.org/packages/:pkg
 /aur/:pkg https://aur.archlinux.org/packages?O=0&SeB=nd&outdated=&SB=p&SO=d&PP=50&submit=Go&K=:pkg
+/aur/:pkg/d https://aur.archlinux.org/packages/:pkg
 ## Official PKGs
 /arch/:pkg https://archlinux.org/packages/?sort=&maintainer=&flagged=&q=:pkg
 
