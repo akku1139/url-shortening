@@ -8,7 +8,7 @@
 ## Official PKGs
 /arch/:pkg https://archlinux.org/packages/?sort=&maintainer=&flagged=&q=:pkg
 ## ChachyOS
-/chachy/:plkg https://packages.cachyos.org/?search=:pkg
+/cachy/:plkg https://packages.cachyos.org/?search=:pkg
 
 # Installer Scripts
 /deno https://deno.land/install.sh
